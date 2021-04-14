@@ -1,0 +1,11 @@
+.hover_box{
+    width: 500px;
+    height: 500px;
+    font-size:100px;
+    text-align: center;
+    background-color: red;
+  }
+  
+  .hover_box:hover{
+    background-color: blue;
+  }
